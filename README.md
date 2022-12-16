@@ -14,5 +14,6 @@
 
 - 4기 RacingCar 문제 풀이 : https://github.com/PgmJun/woowacourse-racingcar
 - 5기 Lotto 문제 풀이 :  https://github.com/PgmJun/woowacourse-lotto/tree/practice
+- 4기 PairMatching 문제 풀이 : https://github.com/PgmJun/java-pairmatching-precourse
 
 
